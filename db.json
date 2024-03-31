@@ -1,0 +1,73 @@
+{
+  "profesores": [
+    {
+      "nombre": "Ever",
+      "apellido": "Code",
+      "materias": [
+        {
+          "nombre": "NodeJS"
+        },
+        {
+          "nombre": "ReactJS"
+        },
+        {
+          "nombre": "Javascript"
+        }
+      ],
+      "id": "1064"
+    },
+    {
+      "id": "8dbe",
+      "nombre": "Camila",
+      "apellido": "Dev",
+      "materias": [
+        {
+          "nombre": "Base de Datos"
+        },
+        {
+          "nombre": "Matematicas"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "apellido": "Rodriguez",
+      "promedio": 8.2,
+      "id": "49e1"
+    },
+    {
+      "nombre": "Raul",
+      "apellido": "Alfonsin",
+      "promedio": 2.3,
+      "id": "1a6d"
+    },
+    {
+      "id": "5baa",
+      "nombre": "Francisco",
+      "apellido": "Segundo",
+      "promedio": 6.4
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJS",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "08a8"
+    },
+    {
+      "nombre": "ReactJS",
+      "duracion": 8,
+      "dificultad": "intermedia",
+      "id": "379f"
+    },
+    {
+      "nombre": "Angular17",
+      "duracion": 8,
+      "dificultad": "alta",
+      "id": "fa5f"
+    }
+  ]
+}
